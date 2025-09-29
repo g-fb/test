@@ -1,5 +1,4 @@
 import QtQuick
-import org.kde.kquickcontrols
 
 Window {
     width: 640
