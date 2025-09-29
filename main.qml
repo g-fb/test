@@ -7,8 +7,4 @@ Window {
     visible: true
     title: qsTr("Hello World")
 
-    KeySequenceItem {
-        checkForConflictsAgainst: ShortcutType.None
-        modifierlessAllowed: true
-    }
 }
